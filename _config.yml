@@ -1,7 +1,7 @@
 name: Vincent-Test
 favicon: null
-layout_spectrum: 0.52177
-typography_spectrum: 1
+layout_spectrum: 0.15681529324501753
+typography_spectrum: 0.6387507717590779
 title: Vincent-Test
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfdfd'
-    - '#1c2930'
-    - '#d9d6d0'
-    - '#415054'
-    - '#898b85'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []

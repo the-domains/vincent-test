@@ -2,6 +2,7 @@ name: Vincent-Test
 favicon: null
 layout_spectrum: 0.15681529324501753
 typography_spectrum: 0.6387507717590779
+title: Vincent-Test
 cta:
   domain: null
   bucket: null
